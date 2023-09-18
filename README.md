@@ -16,3 +16,6 @@
 - from task 1 - the contents of form submission - should be populated there.
 - The site **core web vitals report** should be taken using lighthouse in developer tool and screenshots recorded in the video .
 - The candidate should try to optimise **Core web vitals** to meet the standard requirements for both **desktop** and **mobile**
+
+
+# Solution
